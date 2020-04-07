@@ -1,4 +1,7 @@
 # Harvest
+![App Demo](Demo/gallery.jpg)
+![App Demo](Demo/gallery2.jpg)
+![App Demo](Demo/gallery3.jpg)
 ### Introduction and Inspiration
 Harvest is a non-profit effort to address the severely flawed system of food production around the world. According to the Food and Agriculture Organisation of the United Nations, roughly one third of the food produced in the world for human consumption every year — approximately **1.3 billion tonnes** — goes uneaten. Furthermore, all of this food decomposing produces an enormous amount of methane gas, which traps thirty times more heat within the atmosphere than carbon dioxide. According to the World Wildlife Fund, the production of lost or wasted food generates the equivalent of **37 million cars'** worth of greenhouse gas emissions- and that’s only for the United States. 
 Importantly; however, is that much of the product which goes to waste is completely safe to eat. So what happens to it? Simply, distributors only purchase items from producers which meet the standard to be sold- a multitude of commodities are simply misshapen, too small or large, or simply grown in a surplus and thus are put to waste instead of being sold.
